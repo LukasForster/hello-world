@@ -1,3 +1,2 @@
 # hello-world
-This is a test...
-Now something is changed. This is really important.
+This should teach me how to use Git correctly.
