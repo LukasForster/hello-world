@@ -1,6 +1,7 @@
 # hello-world
 This should teach me how to use Git nicely.
-You need to forget how to merge in Visual.
+You need to learn how to merge in Visual.
+This is a story of a little pony
 
 
 
